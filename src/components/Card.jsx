@@ -13,17 +13,17 @@ function Card({ photo, masa,  nama, nim, alamat, nomor }) {
               <div className="card-text">
                 <table>
                   <tr>
-                    <td><h4 >Name</h4></td>
-                    <td><h4 >&nbsp;:&nbsp;</h4></td>
-                    <td><h4 >{nama}</h4></td>
+                    <td><p className="m-0 p-0">Name</p></td>
+                    <td><p className="m-0 p-0">&nbsp;:&nbsp;</p></td>
+                    <td><p className="m-0 p-0">{nama}</p></td>
                   </tr>
                   <tr>
-                    <td><h6 className="m-0">NIM</h6></td>
-                    <td><h6 className="m-0">&nbsp;:&nbsp;</h6></td>
-                    <td><h6 className="m-0">{nim}</h6></td>
+                    <td><p className="m-0 p-0">Nim</p></td>
+                    <td><p className="m-0 p-0">&nbsp;:&nbsp;</p></td>
+                    <td><p className="m-0 p-0">{nim}</p></td>
                   </tr>
                   <tr >
-                    <td><p className="m-0 p-0">Adress</p></td>
+                    <td><p className="m-0 p-0">Address</p></td>
                     <td><p className="m-0 p-0">&nbsp;:&nbsp;</p></td>
                     <td><p className="m-0 p-0">{alamat}</p></td>
                   </tr>
