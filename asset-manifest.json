@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/workshop-reactjs/static/css/main.5b3c1218.css",
+    "main.js": "/workshop-reactjs/static/js/main.04eecdc7.js",
+    "static/media/amikom.png": "/workshop-reactjs/static/media/amikom.28c65c23c32dd70a54e5.png",
+    "index.html": "/workshop-reactjs/index.html",
+    "main.5b3c1218.css.map": "/workshop-reactjs/static/css/main.5b3c1218.css.map",
+    "main.04eecdc7.js.map": "/workshop-reactjs/static/js/main.04eecdc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3c1218.css",
+    "static/js/main.04eecdc7.js"
+  ]
+}
